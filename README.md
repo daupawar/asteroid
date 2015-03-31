@@ -44,7 +44,7 @@ Some of the things Asteroid allows you to do are:
 
 ###In the browser
 
-First, dowload the library:
+First, download the library:
 
     bower install asteroid
 
